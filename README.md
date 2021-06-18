@@ -1,5 +1,8 @@
 # vue-covid-tracker
 
+Covid Tracker in Vue.js and Tailwind
+covid-tracker77.netlify.app
+
 ## Project setup
 ```
 yarn install
